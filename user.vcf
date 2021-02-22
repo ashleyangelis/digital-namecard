@@ -7,7 +7,7 @@ ORG:ThreadLink;
 TITLE:CEO\n Branding & Marketing
 EMAIL;type=INTERNET;type=WORK;type=pref:wpavon@mythreadlink.com
 TEL;type=WORK;type=VOICE:(352)989-2301
-item1.ADR;type=WORK;type=pref:;;835 7th St.\nSuite 6\n Clermont r/, FL;;;34711;United States
+item1.ADR;type=WORK;type=pref:;;835 7th St.\nSuite 6\n Clermont /, FL 34711;United States
 item1.X-ABADR:sg
 item2.URL;type=pref:mythreadlink.com
 item2.X-ABLabel:_$!<HomePage>!$_
